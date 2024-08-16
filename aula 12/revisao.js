@@ -18,10 +18,11 @@ class Cliente{
         console.log("Sacar...");
      }
 
-     //Agora vou utilizar a Classe "Cliente" para criar um objeto chamado "Maria"
+     // Agora vou utilizar a Classe "Cliente" para criar um objeto chamado "Maria"
      maria = new Cliente (5000);
      }
-        
+     
+
         
      
 
