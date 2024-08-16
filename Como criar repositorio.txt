@@ -1,0 +1,54 @@
+﻿Como criar um novo repositório ou adicionar arquivos a um repositório já existente
+
+
+1- Abrir o site: https://github.com/
+2- realizar login com seu email e senha
+3- clique no ícone do perfil: 
+
+
+  
+
+
+
+
+
+
+
+4- Clique em “Your repositories”:
+
+
+  
+
+
+
+
+
+5- selecione um repositório já existente, ou clique em criar um novo:
+
+
+
+
+  
+
+
+
+6- Para adicionar um novo arquivo, clique em add file depois em upload files:
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7- clique em choose your files, para selecionar os arquivos ou pastas e depois em commit changes:
