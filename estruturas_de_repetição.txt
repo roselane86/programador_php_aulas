@@ -1,0 +1,21 @@
+Estrutura de repetição é uma forma de fazer com que o mesmo código seja repetido várias vezes.
+
+
+Temos algumas estruturas de repetições conhecidas, mas vou abordar o "while".
+
+Enquanto estiver nublado quero que apareça infinitamente a mensagem "Está Nublado".
+
+O código seria:
+
+While(NUBLADO === True){
+	console.log("Está Nublado")
+}
+
+
+As traduções das palavras seriam:
+
+While: Significa Enquanto.
+True: Significa Verdadeiro
+
+
+Ou seja, enquanto NUBLADO for VERDADEIRO, a mensagem será exibida infitamente. Sendo assim uma estrutura de repetição.

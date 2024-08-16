@@ -1,0 +1,17 @@
+Através de condicionais você é capaz de mudar a execução de uma código dependendo da condição definida.
+
+Ex:
+
+if(SEMAFARO === "VERDE"){
+	console.log("Você pode passar");
+} else {
+	console.log("Você não pode passar");
+}
+
+
+Acima temos uma condicional que diz se alguém pode passar
+ou não de um sinal de trânsito.
+
+Caso SEMAFARO seja igual ao valor "VERDE" então vai ser exibida a mensagem "Você pode passar".
+
+Se SEMAFARO não for igual "VERDE" então a mensagem exibida será "Você não pode passar"
